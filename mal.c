@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("mal mal");
+    printf("mal!!!");
     return 0;
 }
 
