@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("bal");
+    printf("bal amar");
     return 0;
 }
 
